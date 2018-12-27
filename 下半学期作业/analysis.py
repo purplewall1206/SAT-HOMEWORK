@@ -70,7 +70,7 @@ for item in errorlist:
         count[2] = count[2]+1
     if item[5] != '':
         count[3] = count[3]+1
-
+#WARNING0 ERROR0 ERROR1 ERROR2
 print(count)
 
 import numpy as np
