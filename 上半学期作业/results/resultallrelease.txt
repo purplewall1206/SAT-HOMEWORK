@@ -1,0 +1,216 @@
+/home/ppw/Documents/pycode/requests_dot/27-07-22-23.dot:
+cosine similirity : 0.5831638484702625
+k value in y=k*x  : 0.3018145557568043
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-22-28.dot:
+cosine similirity : 0.5909374773998659
+k value in y=k*x  : 0.29875798501177925
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-22-33.dot:
+cosine similirity : 0.5872321364301971
+k value in y=k*x  : 0.3002175708992372
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-22-39.dot:
+cosine similirity : 0.4927350516292884
+k value in y=k*x  : 0.3359971796748126
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-22-41.dot:
+cosine similirity : 0.5095101710852533
+k value in y=k*x  : 0.3298266222679398
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-22-43.dot:
+cosine similirity : 0.5450046356391557
+k value in y=k*x  : 0.31652788658021414
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-22-47.dot:
+cosine similirity : 0.7458487576700227
+k value in y=k*x  : 0.23204415184309257
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-22-53.dot:
+cosine similirity : 0.8433078295635984
+k value in y=k*x  : 0.18060508588914648
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-22-55.dot:
+cosine similirity : 0.7851674646445398
+k value in y=k*x  : 0.21257683696187857
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-23-01.dot:
+cosine similirity : 0.8448738436095166
+k value in y=k*x  : 0.17967543453399282
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-23-07.dot:
+cosine similirity : 0.8544751331005658
+k value in y=k*x  : 0.17387889978623697
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-23-14.dot:
+cosine similirity : 0.8657931748017568
+k value in y=k*x  : 0.16681444881518948
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-23-21.dot:
+cosine similirity : 0.8753589873655239
+k value in y=k*x  : 0.1606250546066478
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-23-30.dot:
+cosine similirity : 0.8753589873655239
+k value in y=k*x  : 0.1606250546066478
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-23-38.dot:
+cosine similirity : 0.8745728543040552
+k value in y=k*x  : 0.16114187044474618
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-23-45.dot:
+cosine similirity : 0.9907834101382489
+k value in y=k*x  : 0.04324982759655432
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-23-50.dot:
+cosine similirity : 0.9896439233780948
+k value in y=k*x  : 0.045849886527842734
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-23-57.dot:
+cosine similirity : 0.991926842036515
+k value in y=k*x  : 0.04047431067777356
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-24-03.dot:
+cosine similirity : 0.9907834101382489
+k value in y=k*x  : 0.04324982759655432
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-24-08.dot:
+cosine similirity : 0.991926842036515
+k value in y=k*x  : 0.04047431067777356
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-24-15.dot:
+cosine similirity : 0.9907834101382489
+k value in y=k*x  : 0.04324982759655432
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-24-20.dot:
+cosine similirity : 0.9907834101382489
+k value in y=k*x  : 0.04324982759655432
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-24-24.dot:
+cosine similirity : 0.991926842036515
+k value in y=k*x  : 0.04047431067777356
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-24-31.dot:
+cosine similirity : 0.9907834101382489
+k value in y=k*x  : 0.04324982759655432
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-24-36.dot:
+cosine similirity : 0.991926842036515
+k value in y=k*x  : 0.04047431067777356
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-24-43.dot:
+cosine similirity : 0.9976958525345622
+k value in y=k*x  : 0.02161243427226491
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-24-50.dot:
+cosine similirity : 0.9976958525345622
+k value in y=k*x  : 0.02161243427226491
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-24-57.dot:
+cosine similirity : 1.0
+k value in y=k*x  : 0.0
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-25-04.dot:
+cosine similirity : 0.7872724712521658
+k value in y=k*x  : 0.21149252616671477
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-25-12.dot:
+cosine similirity : 0.7933535444402984
+k value in y=k*x  : 0.20833322658760967
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-25-28.dot:
+cosine similirity : 0.8011676797563921
+k value in y=k*x  : 0.2042124851445721
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-25-38.dot:
+cosine similirity : 0.803519599756347
+k value in y=k*x  : 0.20295818844151664
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-25-48.dot:
+cosine similirity : 0.8064361959146388
+k value in y=k*x  : 0.20139341517370726
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-25-54.dot:
+cosine similirity : 0.8042457811967031
+k value in y=k*x  : 0.20256956111206922
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-26-01.dot:
+cosine similirity : 0.8368570773400533
+k value in y=k*x  : 0.184390511889282
+
+
+
+/home/ppw/Documents/pycode/requests_dot/27-07-26-11.dot:
+cosine similirity : 0.8414829655098865
+k value in y=k*x  : 0.18168305546813793
+
+
+
